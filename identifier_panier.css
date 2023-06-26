@@ -1,0 +1,225 @@
+body {
+    position: absolute;
+    top: 100px;
+    left: 660px;
+    background-color: white;
+}
+
+
+.devis {
+    font-style: initial;
+    font-weight: bolder;
+    font-family: Bahnschrift;
+    font-size: 23px;
+    position: absolute;
+    top: 120px;
+    left: 90px;
+}
+
+
+
+.ta {
+
+    position: relative;
+    top: -9px;
+}
+
+.phone-screen {
+
+    margin-top: 100px;
+    width: 290px;
+    height: 520px;
+    border: 10px solid rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px rgba(184, 171, 171, 0.5);
+}
+
+
+hr {
+    height: 1, 3px;
+    background-color: white;
+}
+
+
+
+#pad {
+    padding-top: 115px;
+    font-family: Arial;
+    color: rgb(141, 135, 135);
+
+}
+
+#one {
+
+    padding-top: 85px;
+
+    color: rgb(141, 135, 135);
+
+
+
+}
+
+.img {
+    position: relative;
+    top: -57px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+.logo {
+    height: 9%;
+    width: 35%;
+    position: absolute;
+    left: -170px;
+}
+
+.menus {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 100px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: black;
+    margin-left: -100px;
+    margin-top: -80px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.menu1 {
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.menu5 {
+    text-decoration: none;
+    padding-left: 400px;
+
+}
+
+.menu6 {
+    text-decoration: none;
+
+}
+
+.h {
+    width: 200%;
+    height: 7px;
+    border: 0 none;
+    margin-top: 20px;
+    background-color: #3B83C6;
+    position: absolute;
+    left: -200px;
+}
+
+
+
+
+
+
+
+
+
+body {
+    position: absolute;
+    top: 100px;
+    left: 660px;
+    background-color: white;
+}
+
+.aya {
+    color: red;
+}
+
+
+input {
+    color: rgb(102, 92, 92);
+    background-color: white;
+    height: 39px;
+
+    margin-top: 8px;
+
+}
+
+.TEXT {
+    color: rgb(91, 81, 81);
+    font-size: medium;
+    font-weight: 100px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1, 5px;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    font-style: italic;
+}
+
+
+.sidentifier {
+    font-style: initial;
+    font-family: Bahnschrift;
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 100px;
+    left: 70px;
+}
+
+.CONNEXION {
+    margin-left: 10PX;
+    font-style: italic;
+    width: 279px;
+    color: rgb(148, 140, 140);
+}
+
+.aye {
+    padding-left: 10px;
+
+    border: 1px solid rgb(162, 157, 157);
+    width: 265px;
+}
+
+
+
+.ta {
+
+    position: relative;
+    top: -9px;
+
+}
+
+input[type="submit"] {
+    border: 1px solid rgb(154, 150, 150);
+}
+
+#pad {
+    padding-top: 85px;
+
+}
+
+.phone-screen {
+
+    margin-top: 100px;
+    width: 290px;
+    height: 520px;
+    border: 10px solid rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px rgba(184, 171, 171, 0.5);
+}
+.phone-screen1 {
+
+    margin-top: 100px;
+    width: 290px;
+    height: 700px;
+    border: 10px solid rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px rgba(184, 171, 171, 0.5);
+}
+.logo1 {
+    height: 7%;
+    width: 35%;
+    position: absolute;
+    left: -170px;
+}
